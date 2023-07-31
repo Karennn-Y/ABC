@@ -1,24 +1,4 @@
-/* In file name power.c */
 
-#include <stdio.h>
-
-#define   N   7
-
-long power(int, int);
-void prn_heading(void);
-void prn_tbl_of_powers(int);
-
-int main(void)
-{
-    prn_heading();
-    prn_tbl_of_powers(N);
-    return 0;
-}
-
-void prn_heading(void)
-{
-    printf("\n:::::  A TABLE OF POWERS  :::::\n\n");
-}
 /* In file name power.c */
 
 #include <stdio.h>
