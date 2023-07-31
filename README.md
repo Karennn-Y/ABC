@@ -1,9 +1,9 @@
 # ABC(A Book on C)
 ---
-- [ ] chapter 1
-- [ ] chapter 2
-- [ ] chapter 3
-- [ ] chapter 4
+- [x] chapter 1
+- [x] chapter 2
+- [x] chapter 3
+- [x] chapter 4
 - [ ] chapter 5
 - [ ] chapter 6
 - [ ] chapter 7
